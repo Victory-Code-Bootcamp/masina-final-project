@@ -1,3 +1,18 @@
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900 */
+
+.noto-sans-jp-Header {
+  font-family: "Noto Sans JP", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+
+
+
 body {
     font-family: 'Roboto', sans-serif;
     text-align: center;
