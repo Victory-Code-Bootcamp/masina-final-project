@@ -32,6 +32,7 @@ header nav {
 
 header nav img.logo {
     width: 50px;
+    height: inherit;
 }
 
 header nav ul {
